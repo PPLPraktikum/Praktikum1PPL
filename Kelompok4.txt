@@ -5,3 +5,6 @@ Anggota - Sayyidina Adha Revaldito - 102042400101
 
 Edit :
 Test Praktikum2 - 
+
+D1-1 Membuat Dashboard
+D1-2 CRUD Login - 
